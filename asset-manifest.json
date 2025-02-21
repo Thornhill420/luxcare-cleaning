@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luxcare-cleaning/static/css/main.52443cd4.css",
-    "main.js": "/luxcare-cleaning/static/js/main.5fcc8d6d.js",
+    "main.js": "/luxcare-cleaning/static/js/main.7f177b0a.js",
     "static/js/453.bc4daedc.chunk.js": "/luxcare-cleaning/static/js/453.bc4daedc.chunk.js",
     "static/media/right.jpg": "/luxcare-cleaning/static/media/right.6183553da572231a6318.jpg",
     "static/media/left.jpg": "/luxcare-cleaning/static/media/left.73756cc83fb2b6e6badb.jpg",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/luxcare-cleaning/static/media/logo.41feb3616fd33cd287a1.png",
     "index.html": "/luxcare-cleaning/index.html",
     "main.52443cd4.css.map": "/luxcare-cleaning/static/css/main.52443cd4.css.map",
-    "main.5fcc8d6d.js.map": "/luxcare-cleaning/static/js/main.5fcc8d6d.js.map",
+    "main.7f177b0a.js.map": "/luxcare-cleaning/static/js/main.7f177b0a.js.map",
     "453.bc4daedc.chunk.js.map": "/luxcare-cleaning/static/js/453.bc4daedc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52443cd4.css",
-    "static/js/main.5fcc8d6d.js"
+    "static/js/main.7f177b0a.js"
   ]
 }
